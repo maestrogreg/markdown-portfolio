@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![ Here is the picture of a programmer doing his thing. I love programming. ] (https://ibb.co/mcRwrnL)
