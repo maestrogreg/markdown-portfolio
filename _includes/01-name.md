@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Greg's Page
+## About 
+### Greg is a programming enthusiast that loves to program using JavaScript.
