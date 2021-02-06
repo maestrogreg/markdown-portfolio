@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ A little introduction about myself; I am a Nigerian, from **Imo** state to be precise. Am born into family of five kids; two males and three girls :smile:.  
